@@ -1,6 +1,6 @@
 # Mobil vs Motor – Transfer Learning Image Classification
 
-Tugas ini merupakan bagian dari mata kuliah **Deep Learning**, di mana saya membangun model klasifikasi gambar untuk dua objek berbeda: **Mobil** dan **Motor** menggunakan metode **Transfer Learning**.
+Tugas ini merupakan bagian dari mata kuliah **Machine Learning**, di mana saya membangun model klasifikasi gambar untuk dua objek berbeda: **Mobil** dan **Motor** menggunakan metode **Transfer Learning**.
 
 ## Deskripsi Proyek
 
