@@ -66,6 +66,7 @@ Saya mempelajari cara mengimplementasikan transfer learning menggunakan model pr
 | `tugas-transfer-learning.ipynb` | Notebook utama berisi seluruh proses coding |
 | `README.md`       | Deskripsi proyek ini                        |
 | `laporan.pdf`     | Laporan lengkap dalam format PDF            |
+| `dataset/`        | Folder dataset berisi gambar mobil dan motor |
 
 ## Link Tugas
 
