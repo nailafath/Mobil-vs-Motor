@@ -51,6 +51,7 @@ Proyek ini menggunakan pendekatan **Transfer Learning** dengan pretrained model 
 - **Classification Report**: Precision, recall, dan f1-score semua 1.00 untuk kedua kelas, menandakan model bekerja sempurna pada dataset validasi.
 - **Visualisasi**:
   - Grafik akurasi dan loss selama training
+    
     ![akurasi](https://github.com/user-attachments/assets/382f6e7a-03eb-441c-a0d5-719ec91b6115)
     ![loss](https://github.com/user-attachments/assets/82921f3a-0604-43a5-aa54-d15954f0760f)
 
